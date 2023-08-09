@@ -61,6 +61,14 @@ p {
   justify-items: end;
 }
 
+.botao {
+  background: #e21;
+  color: #fff;
+  padding: 15px 30px;
+  border-radius: 4px;
+  text-transform: uppercase;
+}
+
 .detalhe {
   width: 60px;
   height: 4px;
@@ -68,14 +76,6 @@ p {
   position: absolute;
   top: 30px;
   right: -30px;
-}
-
-.botao {
-  background: #e21;
-  color: #fff;
-  padding: 15px 30px;
-  border-radius: 4px;
-  text-transform: uppercase;
 }
 
 .subtitulo {
